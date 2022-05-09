@@ -1,1 +1,13 @@
-
+<bug_description>
+  <bug_name>one</bug_name>
+  <area_path>two</area_path>
+  <build number>three</build number>
+  <severity>four</severity>
+  <priority>five</priority>
+  <assigned_to>six</assigned_to>
+  <reported_by>seven</reported_by>
+  <status>eight</status>
+  <environment>nine</environment>
+  <description>ten</description>
+  <steps_to_reproduce>eleven</steps_to_reproduce>
+  </bug_description>
