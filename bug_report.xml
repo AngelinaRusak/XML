@@ -1,7 +1,7 @@
 <bug_description>
   <bug_name>one</bug_name>
   <area_path>two</area_path>
-  <build number>three</build number>
+  <build_number>three</build_number>
   <severity>four</severity>
   <priority>five</priority>
   <assigned_to>six</assigned_to>
